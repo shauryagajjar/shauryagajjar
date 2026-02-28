@@ -1,5 +1,10 @@
 #  About Me:
-🔭 I’m currently working on AI-powered web apps and developer tools  <br>🤝 I’m looking to collaborate on open-source AI tools and indie SaaS projects  <br>🆘 I’m looking for help with scaling products to real users and system design  <br>🌱 I’m currently learning system design, cloud deployment, and AI agents  <br>💬 Ask me about building projects from zero to launch  <br>⚡ Fun fact: I prefer shipping imperfect projects over perfect ideas
+🔭 Building AI-powered web applications and developer-focused tools  
+🤝 Open to collaborating on open-source AI systems and ambitious indie SaaS products  
+🆘 Exploring scalable architecture, distributed systems, and real-world product growth  
+🌱 Deepening my knowledge of system design, cloud infrastructure, and autonomous AI agents  
+💬 Ask me about shipping ideas fast and turning prototypes into production-ready apps  
+⚡ Fun fact: I optimize for iteration speed over perfection
 
 
 ##  Socials:
