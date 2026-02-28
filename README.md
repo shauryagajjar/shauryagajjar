@@ -1,10 +1,10 @@
 #  About Me:
- Building AI-powered web applications and developer-focused tools  
- Open to collaborating on open-source AI systems and ambitious indie SaaS products  
- Exploring scalable architecture, distributed systems, and real-world product growth  
- Deepening my knowledge of system design, cloud infrastructure, and autonomous AI agents  
- Ask me about shipping ideas fast and turning prototypes into production-ready apps  
- Fun fact: I optimize for iteration speed over perfection
+ -Building AI-powered web applications and developer-focused tools  
+ -Open to collaborating on open-source AI systems and ambitious indie SaaS products  
+ -Exploring scalable architecture, distributed systems, and real-world product growth  
+ -Deepening my knowledge of system design, cloud infrastructure, and autonomous AI agents  
+ -Ask me about shipping ideas fast and turning prototypes into production-ready apps  
+ -Fun fact: I optimize for iteration speed over perfection
 
 
 ##  Socials:
